@@ -1,0 +1,2 @@
+I will explain the project’s purpose, setup instructions, and usage notes that will helpful for others and serves as documentation for your setup process as a progress with it.
+This information is still widely opened. So, always keep a watch.
