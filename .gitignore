@@ -1,9 +1,22 @@
 # Local Terraform directories and files
 .terraform/
 
+# Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
+
 # Ignore Terraform variable files with sensitive data
 *.tfvars
 
-# Ignore any CLI configuration files
+# Ignore override files
+override.tf
+override.tf.json
+*.override.tf
+*.override.tf.json
+
+# Ignore Terraform CLI configuration files
 .terraformrc
 terraform.rc
+
+# Do NOT ignore .terraform.lock.hcl (ensure it is version-controlled)
+!.terraform.lock.hcl
