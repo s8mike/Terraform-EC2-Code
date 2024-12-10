@@ -12,3 +12,5 @@ AWS EC2 Knowledge (Basic)
 Text Editor or IDE
 Basic Command Line Knowledge
 Network and Firewall Configuration
+
+This project is an evolving one. More findings and modifications will be added soon.
